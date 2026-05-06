@@ -123,13 +123,13 @@ The chatbot combines:
 
 conversation-rag-system/
 
-├── app.py  
-├── rag.py  
-├── persona.py  
-├── chatbot.py  
-├── requirements.txt  
 ├── README.md  
-├── conversations.csv  
+├── app.py
+├── chatbot.py
+├── conversations.csv
+├── persona.py
+├── README.md  
+├── rag.py
 └── .gitignore
 
 ---
